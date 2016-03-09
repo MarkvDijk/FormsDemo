@@ -1,0 +1,20 @@
+﻿@model EPiServer.Forms.Implementation.Elements.CaptchaElementBlock
+
+@{
+    var formElement = Model.FormElement;
+    var labelText = Model.Label;
+}
+    <div class="Form__Element FormCaptcha" data-epiforms-element-name="@formElement.Code">
+        <label class="Form__Element__Caption" for="@formElement.Guid">
+            @labelText
+        </label>
+        <div style="display: inline-block">
+            <img src="@Model.CaptchaImageHandler" class="FormCaptcha__Image" style="margin-bottom: 10px;" /><br/>
+            <input id="@formElement.Guid" name="@formElement.Code" type="text" class="FormTextbox__Input FormCaptcha__Input FormHideInSummarized"/>
+            <a data-epiforms-captcha-image-handler="@formElement.Guid" class="FormCaptcha__Refresh" href=""><i class="icon-refresh"></i> @Html.Translate("/episerver/forms/viewmode/refreshcaptcha")</a>
+        </div>
+        
+        <span data-epiforms-linked-name="@formElement.Code" class="Form__Element__ValidationError" style="display: none;">*</span>
+    </div>
+
+

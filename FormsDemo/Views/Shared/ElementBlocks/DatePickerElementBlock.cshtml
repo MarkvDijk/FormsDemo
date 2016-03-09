@@ -1,0 +1,28 @@
+﻿@using EPiServer.Forms.Helpers
+@using EPiServer.Framework.Web.Resources
+@model FormsDemo.Models.Forms.DatePickerElementBlock
+
+@{
+    ClientResources.RequireStyle("//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css");
+    ClientResources.RequireScript("//code.jquery.com/ui/1.11.4/jquery-ui.js");
+    var formElement = Model.FormElement;
+    var labelText = Model.Label;
+}
+
+<div class="Form__Element FormTextbox @Model.GetValidationCssClasses()" data-epiforms-element-name="@formElement.Code">
+    <label for="@formElement.Guid" class="Form__Element__Caption">@labelText</label>
+    <input name="@formElement.Code" id="@formElement.Guid" type="text" class="FormTextbox__Input" readonly="readonly" style="cursor: pointer"
+           placeholder="@Model.PlaceHolder" value="@Model.PredefinedValue" @Html.Raw(formElement.AttributesString)/>
+
+    <span data-epiforms-linked-name="@formElement.Code" class="Form__Element__ValidationError" style="display: none;">*</span>
+</div>
+
+<script>
+    $(function () {
+        $("#@formElement.Guid").datepicker({
+            dateFormat: "@Model.DateFormat",
+            changeMonth: true,
+            changeYear: true
+        });
+    });
+</script>

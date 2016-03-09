@@ -1,0 +1,8 @@
+﻿@model FormResultViewModel
+
+<h1>Form result</h1>
+@foreach (var item in Model.FormData)
+{
+    <strong>@item.Key</strong>
+    <span>= @item.Value</span><br/>
+}

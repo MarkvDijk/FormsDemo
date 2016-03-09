@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+  <language name="English" id="en">
+    
+    <contenttypes>
+      <datepickerelementblock>
+        <name>Date picker</name>
+        <description>Will popup a calender to pick a date</description>
+      </datepickerelementblock>
+    </contenttypes>
+
+    <episerver>
+      <forms>
+        
+        <validators>
+          <formsdemo.business.validation.zipcodevalidator>
+            <displayname>ZipCode (1234 AB)</displayname>
+            <message>This is not a valid zipcode</message>
+          </formsdemo.business.validation.zipcodevalidator>
+        </validators>
+        
+        <externalsystems>
+          <formsdemo.business.externalfeeds.colorfeedfieldmapping>
+            <displayname>Colors</displayname>
+          </formsdemo.business.externalfeeds.colorfeedfieldmapping>
+        </externalsystems>
+        
+      </forms>
+    </episerver>
+
+  </language>
+</languages>
