@@ -358,6 +358,61 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="App_Data\blobs\017dfab0b9864d2f852e29f0ccc4a501\930770cbd8c9437da02cb1c0468945c2.jpg" />
+    <Content Include="App_Data\blobs\03ab3271776849cd9e4fc173d93e0eaa\14a448bd83c44587807a4aab90d730b1.png" />
+    <Content Include="App_Data\blobs\06484ebc473c4f158ea14c2899af240a\8fbb14eb5b8948fd80cbe9b6484ad482.mp4" />
+    <Content Include="App_Data\blobs\096ed052060b4e94a5f75a903dfecb68\642752e9ab914dbc8bfbff7b158c1a0b.jpg" />
+    <Content Include="App_Data\blobs\0bafeaaa12544e63915e768c59e5a810\7e0637ed94d34711a656619e53f487e8.png" />
+    <Content Include="App_Data\blobs\0d060715ece4494bb2af90c3b12d4c59\1d2e8fda4a944335b2f2fd05c1c0eec7.png" />
+    <Content Include="App_Data\blobs\12d9b0cabc834fc489afa048748c6221\0b29c9305eda43dd83e3981a6ed3a82d.png" />
+    <Content Include="App_Data\blobs\1394fedccd014c3e8c800dc9d8e58978\5af56c1426724c0ca388e9c2ea6399d0.jpg" />
+    <Content Include="App_Data\blobs\1394fedccd014c3e8c800dc9d8e58978\5af56c1426724c0ca388e9c2ea6399d0_Thumbnail.jpg" />
+    <Content Include="App_Data\blobs\1e78970dacfb43ed8afb12c655eb1146\4f5f01fe279d4e468b5ac5334b34134f.png" />
+    <Content Include="App_Data\blobs\271dc98c6d0340048f83ef394174fc7e\1a8e1607451f46508bc92399484aac6b.png" />
+    <Content Include="App_Data\blobs\271dc98c6d0340048f83ef394174fc7e\1a8e1607451f46508bc92399484aac6b_Thumbnail.png" />
+    <Content Include="App_Data\blobs\2838f7da49264cdba5d3f3813188e813\127cc73491c24c44b1117aedeaf2ed0a.jpg" />
+    <Content Include="App_Data\blobs\2838f7da49264cdba5d3f3813188e813\127cc73491c24c44b1117aedeaf2ed0a_Thumbnail.png" />
+    <Content Include="App_Data\blobs\28cf1fdb55d844a8a79ede13390372ef\9b4566cb57114c5d82f8b011b3317164.png" />
+    <Content Include="App_Data\blobs\33237e92315748688755bb0d0c082982\649294cc796f41929a1965718dffd37a.png" />
+    <Content Include="App_Data\blobs\40d4652d289b4d909a45e7ac5c78ed98\26d4468ea1a24ddcb287b129546bc9bb.png" />
+    <Content Include="App_Data\blobs\41822f87d9f64588b2060efc9e129bf2\e5b75ca76f414e5a8a7b7ca19ee41841.png" />
+    <Content Include="App_Data\blobs\4582df1b7f5d4a32b7dd0e243877f8c3\73bc58da26334206b2fee86b6f7c0a65.png" />
+    <Content Include="App_Data\blobs\47a21d5c608044b28afbe7b0ea66fc28\7dba176dd85e4d898462b6f11111b163.png" />
+    <Content Include="App_Data\blobs\47a21d5c608044b28afbe7b0ea66fc28\7dba176dd85e4d898462b6f11111b163_Thumbnail.png" />
+    <Content Include="App_Data\blobs\4c8a2a4cf839480cb73ed1091e52ab4c\415137265cd848ce8736d489f047c8c3.png" />
+    <Content Include="App_Data\blobs\4caad77e6f3441e9a0d0a873b686bf32\c101fa5b5d844132bd6e0662c89fdd91.png" />
+    <Content Include="App_Data\blobs\58f7fa6102d94c3c9ff4e70e9537f911\e6b6a9b869714ea485f3fd17c38b537f.png" />
+    <Content Include="App_Data\blobs\6a0918f3f55348e8bc5fe2817d127e34\75b9ce805d054490bca033587498917a.png" />
+    <Content Include="App_Data\blobs\6a0918f3f55348e8bc5fe2817d127e34\75b9ce805d054490bca033587498917a_Thumbnail.png" />
+    <Content Include="App_Data\blobs\6fca44fa998743b882c11276a38ed2b7\78e08f306fc44c03888da8bab14fee3e.png" />
+    <Content Include="App_Data\blobs\6fca44fa998743b882c11276a38ed2b7\78e08f306fc44c03888da8bab14fee3e_Thumbnail.png" />
+    <Content Include="App_Data\blobs\7082aba157274a10a0b224e8b9220286\0a3b3bfc98c644458cf557c98a999c1a.jpg" />
+    <Content Include="App_Data\blobs\8b83a6b89b3b4a4781a551d5b5a7b3a2\364d4d07c3fa4f8db401ce9504688eec.png" />
+    <Content Include="App_Data\blobs\94fa1abe0f984433942b3a7ed24b28fe\92c46e048fef43d6978fb9afed9f5aaa.jpg" />
+    <Content Include="App_Data\blobs\9d6d302e103247309cff2f7ad23a9460\4744fa764ccc4f51876166ac614abe10.png" />
+    <Content Include="App_Data\blobs\9e8a761ec2c54de985d3d0fe3635da00\3654f95ce9c243b88a097eafa064ebda.png" />
+    <Content Include="App_Data\blobs\9e8a761ec2c54de985d3d0fe3635da00\3654f95ce9c243b88a097eafa064ebda_Thumbnail.png" />
+    <Content Include="App_Data\blobs\a12a2908fe7d4be4b1839e49aa72e957\eb53bd3a3bd442d98db93e8d2c3fc1af.png" />
+    <Content Include="App_Data\blobs\a5c9f1954a0e4b5ea7280e23fb6d1e7a\bd34e19f5c0f4a2ba1c1c8d5f01808ae.png" />
+    <Content Include="App_Data\blobs\a5ee7420ff9e46e1ab2188040a84c58e\ccdc110de0d64864b73fcb36c1b77a53.png" />
+    <Content Include="App_Data\blobs\a852f351f91947468f1923795dc0af46\4e5447acdec14f9d9e64357b785304fd.png" />
+    <Content Include="App_Data\blobs\afdc7fac2ad644f2a7e2b386723d63ba\723817a183ac4ada82e87421f1bf4033.png" />
+    <Content Include="App_Data\blobs\afdc7fac2ad644f2a7e2b386723d63ba\723817a183ac4ada82e87421f1bf4033_Thumbnail.png" />
+    <Content Include="App_Data\blobs\b3e5cb10d25e4efb8456dc2e1c3ee8d5\2aedf124d98949208342b1ec395f07c3.png" />
+    <Content Include="App_Data\blobs\b4b62967aa124eaf8a2005cc41ffa2f2\6598d114649f403494a5e39ae0e52e12.png" />
+    <Content Include="App_Data\blobs\b4b62967aa124eaf8a2005cc41ffa2f2\6598d114649f403494a5e39ae0e52e12_Thumbnail.png" />
+    <Content Include="App_Data\blobs\b83ea9768e0c4a1e8d73d384611adb1a\f08006eb5ef94dcb812559722f8de4d0.jpg" />
+    <Content Include="App_Data\blobs\c55e889ac8fa450189be6cd1806a5837\0e06c4e11a794b428ab4f881663b88e8.png" />
+    <Content Include="App_Data\blobs\c8611fe175e04493ad7462efe5544f78\4e473727445d48b983ee4b7dd5900e83.png" />
+    <Content Include="App_Data\blobs\dc47ebc1bbfc47e99b0448e065e604b3\36444e66f2354570b131138f502e14d4.png" />
+    <Content Include="App_Data\blobs\e11cfcafe7aa4c9d9dbe14d32942c268\7dc53b1842e240979311291983a7ae66.png" />
+    <Content Include="App_Data\blobs\eab4616d6d3041de8304b2c3cf0c1ec3\ad15c26de9ae4961bb2684c9fc0e3a22.jpg" />
+    <Content Include="App_Data\blobs\f3bae60788774f719de5a8a71856ab78\ecc95455fbcf46dfb11d8a8515dacf79.jpg" />
+    <Content Include="App_Data\blobs\f581fd0cb52740a2abcbb33a89e26d09\17183bbd93a049bb9911f4baeebeff3e.png" />
+    <Content Include="App_Data\EPiServerDB_994d48ec.mdf" />
+    <Content Include="App_Data\EPiServerDB_994d48ec_log.ldf">
+      <DependentUpon>EPiServerDB_994d48ec.mdf</DependentUpon>
+    </Content>
     <Content Include="ClientResources\Images\icons\layoutIcons24x24.png" />
     <Content Include="ClientResources\Scripts\Editors\StringList.js" />
     <Content Include="ClientResources\ViewMode\FormsValidators.js" />
@@ -527,6 +582,9 @@
     <Content Include="Web.config" />
     <Content Include="App_Data\DefaultSiteContent.episerverdata" />
     <Content Include="App_Data\GeoLiteCity.dat" />
+    <Content Include="App_Data\blobs\413dadfc90d7454d8e9100f766c6b787\d77b19f599df424bbc1decb20a613ef8.docx" />
+    <Content Include="App_Data\blobs\5bc794c88374441b9248e0b47da4f572\81b681d9972843c9873d4a3d2da6d53c.pdf" />
+    <Content Include="App_Data\blobs\d0195dbe9e6044c08aabf18985cd54bb\59b1d1a1dab54c0581de6f84cbb39434.pdf" />
     <None Include="EPiServerLog.config" />
     <Content Include="packages.config" />
     <Content Include="modules\_protected\EPiServer.Packaging.UI\web.config" />
